@@ -237,6 +237,44 @@
     ]
   },
   {
+    "name": "Change package name",
+    "description": "Appends \".revanced\" to the package name by default. Changing the package name of the app can lead to unexpected issues.",
+    "use": false,
+    "dependencies": [],
+    "compatiblePackages": null,
+    "options": [
+      {
+        "key": "packageName",
+        "title": "Package name",
+        "description": "The name of the package to rename the app to.",
+        "required": true,
+        "type": "kotlin.String",
+        "default": "Default",
+        "values": {
+          "Default": "Default"
+        }
+      },
+      {
+        "key": "updatePermissions",
+        "title": "Update permissions",
+        "description": "Update compatibility receiver permissions. Enabling this can fix installation errors, but this can also break features in certain apps.",
+        "required": false,
+        "type": "kotlin.Boolean",
+        "default": false,
+        "values": null
+      },
+      {
+        "key": "updateProviders",
+        "title": "Update providers",
+        "description": "Update provider names declared by the app. Enabling this can fix installation errors, but this can also break features in certain apps.",
+        "required": false,
+        "type": "kotlin.Boolean",
+        "default": false,
+        "values": null
+      }
+    ]
+  },
+  {
     "name": "Change player flyout menu toggles",
     "description": "Adds an option to use text toggles instead of switch toggles within the additional settings menu.",
     "use": true,

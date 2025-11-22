@@ -1,3 +1,18 @@
+# [0.1.0](https://github.com/tristan23612/revanced-patches-package/compare/v0.0.1...v0.1.0) (2025-11-22)
+
+
+### Bug Fixes
+
+* ChangePackageNamePatch.kt ([ba12005](https://github.com/tristan23612/revanced-patches-package/commit/ba12005a72c41099dad72bac7af5fd6449f13af3))
+* patches.api ([a22884a](https://github.com/tristan23612/revanced-patches-package/commit/a22884a8ba427d254d28f14d309b5aa6999316da))
+* release ([bc8b779](https://github.com/tristan23612/revanced-patches-package/commit/bc8b779922804bc47ba8fd4102cdac2078768d29))
+* ResourceUtils.kt ([142ec58](https://github.com/tristan23612/revanced-patches-package/commit/142ec5892ab1c3649ca9d81d07f594379243c9b9))
+
+
+### Features
+
+* ChangePackageNamePatch.kt ([9e2bccc](https://github.com/tristan23612/revanced-patches-package/commit/9e2bccc7cb40623df8deca7ae3ba9ac421a531fd))
+
 # [3.14.0](https://github.com/anddea/revanced-patches/compare/v3.13.0...v3.14.0) (2025-10-05)
 
 
