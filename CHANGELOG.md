@@ -1,3 +1,10 @@
+## [0.1.2](https://github.com/tristan23612/revanced-patches-package/compare/v0.1.1...v0.1.2) (2025-11-22)
+
+
+### Bug Fixes
+
+* ChangePackageNamePatch.kt ([4d7ec24](https://github.com/tristan23612/revanced-patches-package/commit/4d7ec24106583d37130af213458face10efc2e8b))
+
 ## [0.1.1](https://github.com/tristan23612/revanced-patches-package/compare/v0.1.0...v0.1.1) (2025-11-22)
 
 
