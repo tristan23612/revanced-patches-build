@@ -1,4 +1,4 @@
-rootProject.name = "revanced-patches-package"
+rootProject.name = "revanced-patches-build"
 
 pluginManagement {
     repositories {
